@@ -1,0 +1,10 @@
+.navbar {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.navbar li {
+  list-style: none;
+}
+/*# sourceMappingURL=style2.css.map */
